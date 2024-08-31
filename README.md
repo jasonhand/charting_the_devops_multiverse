@@ -1,6 +1,12 @@
 # Charting the DevOps Multiverse
 Companion content for the "Charting the DevOps Multiverse" presentation
 
+# Slides
+
+# Resources
+
+# Citations & Research
+
 ## Timeline (2001 - 2024)
 ### 2001
 - Agile Manifesto published in February (source)
