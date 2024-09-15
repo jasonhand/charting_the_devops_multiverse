@@ -6,10 +6,6 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 
 ## Timeline (2001 - 2024)
 
-# Charting the Devops Universe
-
-Timeline (2001 - 2024)
-
 ## 2001
 
 - Agile Manifesto
