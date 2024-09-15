@@ -2,6 +2,7 @@
 Companion content for the "Charting the DevOps Multiverse" presentation
 
 # Slides
+Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPvMDfOXkEMgtr2-v/view?usp=sharing) 
 
 ## Timeline (2001 - 2024)
 
