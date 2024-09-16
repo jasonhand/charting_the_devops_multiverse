@@ -6,6 +6,8 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 
 ## Timeline (2001 - 2024)
 
+>NOTE: This is a work in progress. Not all of the resources provided below are used in the final delivery of "Charting the DevOps Multiverse". The timeline included in the Slide Deck is incomplete. I look forward completing the the timeline in the slides. If you happen to spot any errors or want to contribute to the overall timeline, PRs are welcome. - Jason
+
 ## 2001
 
 - Agile Manifesto ([Source](https://agilemanifesto.org/))
