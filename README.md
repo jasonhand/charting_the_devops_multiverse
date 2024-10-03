@@ -6,7 +6,7 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 
 ## Timeline (2001 - 2024)
 
->NOTE: This is a work in progress. Not all of the resources provided below are used in the final delivery of "Charting the DevOps Multiverse". The timeline included in the Slide Deck is incomplete. I look forward completing the the timeline in the slides. If you happen to spot any errors or want to contribute to the overall timeline, PRs are welcome. - Jason
+>NOTE: This is a work in progress. Not all of the resources provided below are used in the final delivery of "Charting the DevOps Multiverse". The timeline included in the Slide Deck is incomplete. The details below is information I found while researching for this presentation but it is not exhaustive and may contain errors. I look forward completing the the timeline in the slides eventually, but for now I have to deprioritize for other projects. If you happen to spot any errors or want to contribute to the overall timeline, PRs are welcome. Some the summaries shared below were AI (ChatGPT 3.5 Turbo) generated to save on time while researching 20+ years of data. Wikipedia, Crunchbase, and Pitchbook were the most used resources and all links are provided below. - Jason
 
 ## 2001
 
@@ -16,7 +16,7 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 - Dyn founded ([Wikipedia](https://en.m.wikipedia.org/wiki/Dyn_(company)))
 - Xebia founded ([source](https://www.crunchbase.com/organization/xebia))
 
-### 2001: Agile Manifesto
+### Agile Manifesto
 
 **Significance**: The Agile Manifesto was introduced by a group of 17 software developers, outlining a new approach to software development that emphasized flexibility, collaboration, and customer satisfaction. This manifesto laid the foundation for agile methodologies like Scrum and Kanban, which transformed the software development process by promoting iterative progress, continuous feedback, and adaptive planning.
 **Alternatives**: Before the Agile Manifesto, the predominant methodology was the Waterfall model, which involved a linear and sequential approach to software development. This often led to rigidity and challenges in accommodating changes during the development cycle.
