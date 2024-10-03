@@ -390,7 +390,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 
 ## 2009
 
-- Mobile Web
 - PagerDuty ([Wikipedia](https://en.wikipedia.org/wiki/PagerDuty))
 - iCinga ([Wikipedia](https://en.wikipedia.org/wiki/Icinga))
 - MongoDB ([Wikipedia](https://en.wikipedia.org/wiki/MongoDB))
