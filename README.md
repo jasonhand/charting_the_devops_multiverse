@@ -683,7 +683,7 @@ These significant releases and events from 2007 played a crucial role in shaping
 
 ## 2013
 
-- In January, “The Phoenix Project” published (Gene Kim, George Spafford, and Kevin Behr)
+- In January, “The Phoenix Project” published (Gene Kim, George Spafford, and Kevin Behr) ([source](https://itrevolution.com/product/the-phoenix-project/))
 - In February SignalFX is founded ([Wikipedia](https://en.wikipedia.org/wiki/SignalFx))
 - Docker first demoed ([source](https://www.infoworld.com/article/2253801/what-is-docker-the-spark-for-the-container-revolution.html#:~:text=A%20brief%20history%20of%20Docker,its%20platform%20was%20running%20on)) by Soloman Hykes at PyCon in March 2013
 - Slack ([Wikipedia](https://en.wikipedia.org/wiki/Slack_(software)))
@@ -854,7 +854,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - Snyk ([Wikipedia](https://en.wikipedia.org/wiki/Snyk))
 - April 23-24 - First Devopsdays Rockies ([Source](https://legacy.devopsdays.org/events/2015-denver/))
 - Visual Studio Code is initially released on April 29th ([Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code))
-- November 6-7 - First time doing 30-minute session (at Devopsdays Silicon Valley) - “[Flaming Poo and the Human Response](https://www.youtube.com/watch?v=IJSQXItzClI)”
 
 ### Cloud Native Computing Foundation Founded
 
@@ -886,7 +885,7 @@ These significant releases and events from 2007 played a crucial role in shaping
 **Significance**: Discord, originally designed for gamers, provided a free voice, video, and text chat platform. Its low-latency communication and robust community features quickly made it popular beyond gaming, becoming a tool for various communities and teams.
 **Alternatives**: Alternatives included Skype, TeamSpeak, and Slack, which offered different levels of performance and community engagement features.
 
-### 2015: Cilium Released
+### Cilium Released
 
 **Significance**: Cilium, an open-source networking and security solution for Kubernetes and other container orchestration platforms, utilized eBPF (extended Berkeley Packet Filter) for high-performance and fine-grained network policy enforcement.
 **Alternatives**: Alternatives included traditional networking solutions and other Kubernetes network plugins like Calico and Flannel, which offered different performance and security features.
@@ -1084,6 +1083,13 @@ These tools, services, and events from 2018 significantly impacted the tech indu
 **Significance**: The CNCF announced the merger of OpenTracing and OpenCensus to form OpenTelemetry. This project aimed to provide a unified standard for collecting, processing, and exporting telemetry data (traces, metrics, logs), enhancing observability for cloud-native applications.
 **Alternatives**: Alternatives included using separate tracing (Jaeger, Zipkin), metrics (Prometheus), and logging (ELK Stack) solutions, which required more integration effort and lacked a unified standard.
 
+### June 11-13 and November 5-7th: Last Velocity Conferences
+
+**Significance**: The last Velocity conferences took place in San Jose, California, and Berlin, Germany. Velocity conferences were known for focusing on web performance, DevOps, and operational excellence, providing a platform for sharing best practices and innovations in these areas.
+**Alternatives**: Alternatives included other industry conferences like DevOpsDays, KubeCon, and AWS re:Invent, which continued to provide forums for discussing similar topics and advancements.
+
+These tools, services, and events from 2019 significantly impacted the tech industry, driving advancements in container management, CI/CD, observability, lightweight Kubernetes distributions, logging solutions, and DevOps education. They continue to shape modern development and operational practices.
+
 ### July 29th: “DevOps for Dummies” Released
 
 **Significance**: "DevOps for Dummies," initially started by Jason and completed by Emily Freeman with Jason as the Technical Editor, provided a comprehensive guide to understanding and implementing DevOps practices. It aimed to make DevOps accessible to a broader audience.
@@ -1099,23 +1105,11 @@ These tools, services, and events from 2018 significantly impacted the tech indu
 **Significance**: Grafana Labs announced the GA release of Loki, a logging system designed to work seamlessly with Prometheus. Loki provided a scalable, cost-effective solution for log aggregation and query, focusing on integration with existing monitoring and observability tools.
 **Alternatives**: Alternatives included the ELK Stack (Elasticsearch, Logstash, Kibana) and other logging solutions like Fluentd and Graylog, which offered different features and integrations.
 
-### June 11-13 and November 5-7th: Last Velocity Conferences
-
-**Significance**: The last Velocity conferences took place in San Jose, California, and Berlin, Germany. Velocity conferences were known for focusing on web performance, DevOps, and operational excellence, providing a platform for sharing best practices and innovations in these areas.
-**Alternatives**: Alternatives included other industry conferences like DevOpsDays, KubeCon, and AWS re:Invent, which continued to provide forums for discussing similar topics and advancements.
-
-These tools, services, and events from 2019 significantly impacted the tech industry, driving advancements in container management, CI/CD, observability, lightweight Kubernetes distributions, logging solutions, and DevOps education. They continue to shape modern development and operational practices.
-
 ## 2020
 
-- December 1st, AWS announces Lambda Container Support allowing for AWS Lambda functions packaged as container images, broadening the use cases for serverless functions
+- December 1st, AWS announces Lambda Container Support allowing for AWS Lambda functions packaged as container images, broadening the use cases for serverless functions ([source](https://aws.amazon.com/blogs/compute/using-container-image-support-for-aws-lambda-with-aws-sam/))
 - O’Reilly hosts their final conference “Software Architecture Conference” on February 23-26th ([source](https://conferences.oreilly.com/software-architecture/sa-ny.html))
 - Komodor founded ([source](https://pitchbook.com/profiles/company/464130-55#investors))
-
-### December 1st: AWS Announces Lambda Container Support
-
-**Significance**: AWS announced Lambda Container Support, allowing AWS Lambda functions to be packaged as container images. This broadened the use cases for serverless functions, enabling developers to bring their container-based workflows and dependencies to Lambda, and making it easier to transition between serverless and containerized environments.
-**Alternatives**: Alternatives included traditional serverless function deployment with zip packages and other serverless platforms like Google Cloud Functions and Azure Functions, which offered different levels of container support and integration.
 
 ### February 23-26th: O’Reilly Hosts Final Software Architecture Conference
 
@@ -1124,9 +1118,14 @@ These tools, services, and events from 2019 significantly impacted the tech indu
 
 These events from 2020 significantly impacted the tech industry by enhancing the flexibility and capabilities of serverless functions and marking the end of a notable conference series that contributed to the software architecture community. They reflect ongoing trends in cloud computing and the evolution of industry events.
 
+### December 1st: AWS Announces Lambda Container Support
+
+**Significance**: AWS announced Lambda Container Support, allowing AWS Lambda functions to be packaged as container images. This broadened the use cases for serverless functions, enabling developers to bring their container-based workflows and dependencies to Lambda, and making it easier to transition between serverless and containerized environments.
+**Alternatives**: Alternatives included traditional serverless function deployment with zip packages and other serverless platforms like Google Cloud Functions and Azure Functions, which offered different levels of container support and integration.
+
 ## 2021
 
-- Open Telemetry goes GA ([Source](https://opentelemetry.io/community/roadmap/))
+- OpenTelemetry goes GA ([Source](https://opentelemetry.io/community/roadmap/))
 
 ### OpenTelemetry Goes GA
 
