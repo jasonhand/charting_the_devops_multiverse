@@ -16,8 +16,6 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 - Dyn founded ([Wikipedia](https://en.m.wikipedia.org/wiki/Dyn_(company)))
 - Xebia founded ([source](https://www.crunchbase.com/organization/xebia))
 
-### Summary
-
 ### 2001: Agile Manifesto
 
 **Significance**: The Agile Manifesto was introduced by a group of 17 software developers, outlining a new approach to software development that emphasized flexibility, collaboration, and customer satisfaction. This manifesto laid the foundation for agile methodologies like Scrum and Kanban, which transformed the software development process by promoting iterative progress, continuous feedback, and adaptive planning.
@@ -34,8 +32,6 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 - Jira initially released ([Wikipedia](https://en.wikipedia.org/wiki/Jira_(software)))
 - Libtrato founded ([source](https://pitchbook.com/profiles/company/54170-74#overview))
 - Ping Identity ([Wikipedia)](https://en.m.wikipedia.org/wiki/Ping_Identity)
-
-### Summary
 
 ### March 1st: Nagios Initially Released
 
@@ -60,8 +56,6 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 - Bitnami founded ([Wikipedia](https://en.m.wikipedia.org/wiki/Bitnami))
 - ServiceNow founded ([Wikipedia](https://en.wikipedia.org/wiki/ServiceNow))
 - The original PyCon was formed in North America in 2003 ([source](https://www.python.org/community/pycon/))
-
-### Summary
 
 ### Amazon “Game Day” Created by Jesse Robbins
 
@@ -95,8 +89,6 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 - Selenium initially released ([Wikipedia](https://en.wikipedia.org/wiki/Selenium_(software)))
 - Canonical ([Wikipedia)](https://en.m.wikipedia.org/wiki/Canonical_(company))
 
-### Summary
-
 ### January: Scala Released to the Public
 
 **Significance**: Scala, a hybrid functional and object-oriented programming language, was introduced to address limitations in Java. It provided advanced features like type inference, higher-order functions, and a concise syntax, facilitating better software design and development.
@@ -128,8 +120,6 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 - Dynatrace founded on February 2nd in Linz, Austria ([Wikipedia](https://en.wikipedia.org/wiki/Dynatrace))
 - On April 7th, the initial release of Git ([Wikipedia](https://en.wikipedia.org/wiki/Git))
 - SoftLayer Technologies, Inc. (now IBM Cloud) was founded as a dedicated server, managed hosting, and cloud computing provider ([Wikipedia](https://en.wikipedia.org/wiki/IBM_Cloud))
-
-### Summary
 
 ### February 2nd Dynatrace Founded
 
@@ -186,9 +176,7 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 - April 1st, Apache Hadoop is released ([Wikipedia](https://en.wikipedia.org/wiki/Apache_Hadoop))
 - Monitis founded ([source](https://pitchbook.com/profiles/company/87781-42#overview))
 - Windows Powershell first appears on November 14th. ([Wikipedia](https://en.wikipedia.org/wiki/PowerShell))
-
-### Summary
-
+- 
 ### Capistrano 1.1.0 - March 6th
 
 **Significance**: Capistrano introduced a remote server automation and deployment tool that significantly streamlined the deployment process for web applications by automating repetitive tasks.
@@ -248,8 +236,6 @@ Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPv
 - LogicMonitor founded ([source](https://www.crunchbase.com/organization/logicmonitor))
 - Apprenda ([source](https://www.crunchbase.com/organization/apprenda))
 
-### Summary
-
 ### June 29th: First iPhone Released
 
 **Significance**: The release of the first iPhone revolutionized the mobile phone industry, combining a phone, an iPod, and an internet communicator into a single device. It introduced a touch interface and an app ecosystem that set new standards for smartphones and spurred the development of mobile applications.
@@ -304,8 +290,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - Bitcoin ([Wikipedia](https://en.wikipedia.org/wiki/Bitcoin))
 - Delphix founded ([source](https://www.crunchbase.com/organization/delphix))
 - Apache ZooKeeper ([Wikipedia](https://en.wikipedia.org/wiki/Apache_ZooKeeper))
-
-### Summary
 
 ### Agile 2008 Conference
 
@@ -422,8 +406,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - October 30-31 [First Devopsdays](https://devopsdays.org/about) (Ghent) ([source](https://www.linkedin.com/in/patrickdebois?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 - Standing Cloud founded ([source](https://www.crunchbase.com/organization/standing-cloud)) and ([source 2](https://pitchbook.com/profiles/company/51345-19#overview))
 
-### Summary
-
 ### Mobile Web
 
 **Significance**: The Mobile Web saw significant growth in 2009, driven by the increasing popularity of smartphones and the improvement of mobile internet connectivity. This shift allowed users to access the internet and web applications on the go, leading to the development of responsive web design and mobile-optimized services.
@@ -489,8 +471,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - 10th Magnitude founded ([source](https://www.crunchbase.com/organization/10th-magnitude))
 - Couchbase Server released August 2010 ([Wikipedia](https://en.wikipedia.org/wiki/Couchbase_Server))
 - Google launches BigQuery on May 19th ([Wikipedia](https://en.wikipedia.org/wiki/BigQuery))
-
-### Summary
 
 ### HipChat Released
 
@@ -559,8 +539,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - Cloud Foundry ([Wikipedia](https://en.wikipedia.org/wiki/Cloud_Foundry))
 - Salesforce acquires Heroku ([source](https://www.notion.so/Charting-the-Devops-Universe-bba5efc571454cd6ad23e54ff52d8d9b?pvs=21))
 - Apache Kafka ([Wikipedia](https://en.wikipedia.org/wiki/Apache_Kafka))
-
-### Summary
 
 ### March 18th: Gartner Endorses “DevOps” for Enterprise
 
@@ -657,8 +635,6 @@ These significant releases and events from 2007 played a crucial role in shaping
     - Top 5 tools used to support Devops initiative (Version control systems, configuration management, ticketing system, resource monitoring, and provisioning) - from the report (page 10)
 - Created in 2012, the 12-factor app methodology was designed to provide a set of guidelines for helping developers and organizations to design and build cloud-native applications. ([source](https://developer.ibm.com/articles/creating-a-12-factor-application-with-open-liberty/))
 
-### Summary
-
 ### June 28th: Google Compute Engine Released
 
 **Significance**: Google Compute Engine (GCE) provided scalable and flexible virtual machine infrastructure as part of Google Cloud Platform. GCE offered high-performance computing resources on demand, competing with AWS EC2.
@@ -721,8 +697,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - React ([Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library)))
 - Sysdig founded ([source](https://www.crunchbase.com/organization/sysdig))
 - CoreOS ([Wikipedia](https://en.wikipedia.org/wiki/Container_Linux))
-
-### Summary
 
 ### “The Phoenix Project” Published in January
 
@@ -798,8 +772,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - [Logz.io](http://Logz.io) ([source](https://www.crunchbase.com/organization/logz-io))
 - Apache Spark ([Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark))
 - Azure Machine Learning public preview ([Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure))
-
-### Summary
 
 ### AWS Lambda Released
 
@@ -883,8 +855,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - Visual Studio Code is initially released on April 29th ([Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code))
 - November 6-7 - First time doing 30-minute session (at Devopsdays Silicon Valley) - “[Flaming Poo and the Human Response](https://www.youtube.com/watch?v=IJSQXItzClI)”
 
-### Summary
-
 ### Cloud Native Computing Foundation Founded
 
 **Significance**: The Cloud Native Computing Foundation (CNCF) was established to support the growth and evolution of cloud-native technologies, including Kubernetes, Prometheus, and other open-source projects. CNCF fosters collaboration and innovation in the cloud-native ecosystem.
@@ -948,8 +918,6 @@ These significant releases and events from 2007 played a crucial role in shaping
 - Honeycomb ([Wikipedia](https://en.m.wikipedia.org/wiki/Honeycomb_(company)))
 - Gremlin ([source](https://www.businessinsider.com/gremlin-free-chaos-engineering-netflix-amazon-2019-2?op=1))
 
-### Summary
-
 ### Helm Released
 
 **Significance**: Helm, a package manager for Kubernetes, simplified the deployment and management of applications on Kubernetes clusters by allowing users to define, install, and upgrade complex Kubernetes applications using "charts."
@@ -996,8 +964,6 @@ These tools, services, and events from 2016 significantly impacted the tech indu
 - Azure Cosmos DB Generally Available ([Wikipedia](https://en.wikipedia.org/wiki/Cosmos_DB))
 - Google Cloud Functions ([Wikipedia](https://en.wikipedia.org/wiki/Google_Cloud_Platform))
 
-### Summary
-
 ### Amazon SageMaker Released
 
 **Significance**: Amazon SageMaker provided a fully managed service for building, training, and deploying machine learning models at scale. It simplified the machine learning workflow, enabling developers and data scientists to quickly develop and deploy models without managing infrastructure.
@@ -1042,8 +1008,6 @@ These tools, services, and events from 2017 significantly influenced the tech in
 - In September Microsoft announces Azure DevOps
     - Previously known as Visual Studio Team Services - ([Source](https://azure.microsoft.com/en-us/blog/introducing-azure-devops/)) - Suite of tools including: Pipelines, Boards, Artifacts, Repos, and Test Plans
 - Thanos CNCF Project released ([Source](https://github.com/thanos-io/thanos/releases?page=12))
-
-### Summary
 
 ### April 7th: Google Cloud Run Launched
 
@@ -1104,8 +1068,6 @@ These tools, services, and events from 2018 significantly impacted the tech indu
 - [Jeli.io](http://Jeli.io) founded ([source](https://techcrunch.com/2023/11/02/pagerduty-scoops-up-incident-management-startup-jeli-io/))
 - [Cast.ai](http://Cast.ai) founded ([source](https://www.crunchbase.com/organization/cast-ai))
 
-### Summary
-
 ### January 16th: Podman v1 Released
 
 **Significance**: Podman v1, a daemonless container engine, provided a way to manage containers and pods similar to Docker but without requiring a central daemon. It emphasized security and compatibility with Kubernetes, allowing users to run containers as non-root users.
@@ -1149,8 +1111,6 @@ These tools, services, and events from 2019 significantly impacted the tech indu
 - O’Reilly hosts their final conference “Software Architecture Conference” on February 23-26th ([source](https://conferences.oreilly.com/software-architecture/sa-ny.html))
 - Komodor founded ([source](https://pitchbook.com/profiles/company/464130-55#investors))
 
-### Summary
-
 ### December 1st: AWS Announces Lambda Container Support
 
 **Significance**: AWS announced Lambda Container Support, allowing AWS Lambda functions to be packaged as container images. This broadened the use cases for serverless functions, enabling developers to bring their container-based workflows and dependencies to Lambda, and making it easier to transition between serverless and containerized environments.
@@ -1167,8 +1127,6 @@ These events from 2020 significantly impacted the tech industry by enhancing the
 
 - Open Telemetry goes GA ([Source](https://opentelemetry.io/community/roadmap/))
 
-### Summary
-
 ### OpenTelemetry Goes GA
 
 **Significance**: OpenTelemetry, an open-source observability framework for cloud-native software, reached General Availability (GA) status. It provided standardized APIs, libraries, and agents for collecting telemetry data (traces, metrics, and logs) from applications, enabling better observability and monitoring across distributed systems. The GA release marked a significant milestone, ensuring stability and wide adoption across the industry.
@@ -1179,8 +1137,6 @@ OpenTelemetry's GA release in 2021 significantly impacted the tech industry by p
 ## 2022
 
 - CDK for Terraform is made generally available on August 1st ([source](https://www.hashicorp.com/blog/cdk-for-terraform-now-generally-available))
-
-### Summary
 
 ### August 1st: CDK for Terraform Made Generally Available
 
@@ -1193,8 +1149,6 @@ The general availability of CDK for Terraform in 2022 significantly impacted the
 
 - Azure OpenAI Service generally available ([Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure))
 - Google’s Gemini LLM ([Wikipedia](https://en.wikipedia.org/wiki/Gemini_(chatbot)))
-
-### Summary
 
 ### Azure OpenAI Service Generally Available
 
