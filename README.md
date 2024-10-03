@@ -1168,8 +1168,7 @@ The general availability of CDK for Terraform in 2022 significantly impacted the
 
 ###
 
-# Resources
-.. coming soon.
+# Other Sources
 
-# Citations & Research
-.. coming soon.
+ - [The (Short) History of DevOps by Damon Edwards](https://youtu.be/o7-IuYS0iSE?si=T09YOAYsw-DSRn21)
+ - [10+ Deploys Per Day by John Allspaw and Paul Hammond](https://youtu.be/LdOe18KhtT4?si=zYEZlIAsIuSqJvno)
