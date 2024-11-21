@@ -1,7 +1,7 @@
 # Charting the DevOps Multiverse
 Companion content for the "Charting the DevOps Multiverse" presentation
 
-![Slides](ChartingTheDevOpsMultiverse_Promo.gif)
+[![image](https://github.com/user-attachments/assets/6d023ecc-3e06-47f0-b276-cd3d266735ca)](https://youtu.be/r4ePTRIsFoA)
 
 # Slides
 Download from [Google Drive](https://drive.google.com/file/d/1w6-r3YYZoKzMdRROPvMDfOXkEMgtr2-v/view?usp=sharing) 
